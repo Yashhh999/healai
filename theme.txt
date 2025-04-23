@@ -1,0 +1,19 @@
+Medical Service App Color Theme Recommendation
+For a medical service app, I'd recommend a color palette that balances professionalism, trust, and comfort:
+
+Primary Colors
+Medical Blue: #1E88E5 - Professional, calm, inspires trust
+Soft Teal: #26A69A - Fresh, modern healthcare feel
+Supporting Colors
+Light Grey-Blue: #F5F7FA - Clean background
+Pure White: #FFFFFF - Clinical, clean spaces
+Dark Blue: #0D47A1 - For emphasis and important actions
+Healing Green: #66BB6A - For success states and positive outcomes
+Accent Colors
+Soft Orange: #FF9800 - For calls to action, warm and inviting
+Lavender: #9575CD - For secondary elements, calming
+Text Colors
+Deep Navy: #102A43 - Primary text, accessible and professional
+Medium Grey: #627D98 - Secondary text and descriptions
+Error Red: #EF5350 - Used sparingly for alerts/errors
+This palette provides a clean, professional look while avoiding the sterile feeling of traditional healthcare environments. The combination of blues and teals creates trust while the accent colors add warmth and approachability.
